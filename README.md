@@ -15,4 +15,4 @@ npm run dev<br/>
 <b>Middleware:</b> Code that sits between dispatching an action and the moment it reaches the reducer, often used for logging, asynchronous actions, or other side effects.<br/>
 <b>Selector:</b> A function that extracts specific pieces of data from the state for components to use.<br/><br/><br/>
 
-COUNTER INCREMENT AND DECREMENT USING REDUX
+<b>COUNTER INCREMENT AND DECREMENT USING REDUX</b>
